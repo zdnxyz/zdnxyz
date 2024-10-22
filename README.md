@@ -1,15 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Zidan</h1>
 <h3 align="center">Im Frontend Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers" alt="followers" />
-</p>
-
-<p align="center"> 
-  <em>"Turning ideas into delightful digital experiences"</em>
-</p>
-
 ---
 
 ### 🌐 About Me
